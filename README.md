@@ -11,6 +11,15 @@ $ npx create-react-app react-movie-app
 $ npm i prop-types
 ```
 
+### Axios
+```shell script
+$ npm i axios
+```
+
+
+## Movie API
+https://yts.mx/api 를 사용하는데 이 곳은 수시고 변경된다. 따라서 니콜라스가 만든 movie proxy api를 호출한다.
+
  
 ## Available Scripts
 
