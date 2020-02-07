@@ -11,7 +11,7 @@ $ npx create-react-app react-movie-app
 $ npm i prop-types
 ```
 
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
