@@ -21,6 +21,12 @@ $ npm i axios
 $ npm i gh-pages
 ```
 
+## navigation을 위한 router사용
+```shell script
+$ npm install react-router-dom
+```
+
+
 
 ## Movie API
 https://yts.mx/api 를 사용하는데 이 곳은 수시고 변경된다. 따라서 니콜라스가 만든 movie proxy api를 호출한다.
