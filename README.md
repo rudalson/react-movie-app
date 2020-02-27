@@ -1,4 +1,6 @@
-# Movie App for React
+# React Movie App
+[React Fundamentals 2019](https://www.youtube.com/playlist?list=PL7jH19IHhOLPp990qs8MbSsUlzKcTKuCf)의 강의를 듣고 만든 프로젝트 결과물
+[Movie App](https://rudalson.github.io/react-movie-app) 배포에서 확인 가능.
 
 ## Project 생성
 ```shell script
